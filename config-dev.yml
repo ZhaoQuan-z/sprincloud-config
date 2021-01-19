@@ -2,4 +2,4 @@ server:
   port: 3355
   
 config:
-  info: sprincloud-config/config-dev.yml version=1
+  info: sprincloud-config/config-dev.yml version=2
