@@ -2,4 +2,4 @@ server:
   port: 3344
   
 config:
-  info: sprincloud-config/config-dev.yml version=1
+  info: sprincloud-config/config-prod.yml version=1
