@@ -1,5 +1,2 @@
-server:
-  port: 334
-  
 config:
   info: sprincloud-config/config-prod.yml version=1
