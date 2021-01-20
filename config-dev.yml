@@ -1,5 +1,5 @@
 server:
-  port: 3355
+  port: 3366
   
 config:
   info: sprincloud-config/config-dev.yml version=3
